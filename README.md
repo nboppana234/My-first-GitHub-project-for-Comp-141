@@ -1,1 +1,1 @@
-# COMP-141 GitHub Hwk 7
+# My-first-GitHub-project-for-Comp-141
